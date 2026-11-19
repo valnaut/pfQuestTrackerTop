@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: pfQuest Tracker Top Anchor
+## Author: valnaut
+## Version: 0.1
+## Notes: Keeps pfQuestMapTracker anchored to the top so it expands downwards.
+## Dependencies: pfQuest
+
+pfQuestTrackerTop.lua
